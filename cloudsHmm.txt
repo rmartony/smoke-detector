@@ -1,0 +1,22 @@
+Hmm v1.0
+
+NbStates 3
+
+State
+Pi 0.839
+A 0.439 0.52 0.041 
+IntegerOPDF [0.233 0.107 0.666 ]
+
+
+State
+Pi 0.16
+A 0.422 0.572 0.007 
+IntegerOPDF [0.0060 0.049 0.945 ]
+
+
+State
+Pi 0.001
+A 0 0.001 0.999 
+IntegerOPDF [0.0 0.0 1.0 ]
+
+

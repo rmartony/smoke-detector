@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jmf"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jahmm"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jgoodies"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/javavis"/>
+	<classpathentry kind="output" path="out/production/humo"/>
+</classpath>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="javavis">
+    <archive path="C:/projects/humo/javavis/JavaVisSF/javavis.jar" />
+  </library>
+  <library name="jgoodies">
+    <archive path="C:/projects/humo/proy/lib/forms-1.2.1.jar" />
+  </library>
+  <library name="jmf">
+    <archive path="C:/projects/humo/proy/lib/sound.jar" />
+    <archive path="C:/projects/humo/proy/lib/mediaplayer.jar" />
+    <archive path="C:/projects/humo/proy/lib/jmf.jar" />
+  </library>
+  <library name="jahmm">
+    <archive path="C:/projects/humo/proy/lib/jahmm-0.6.1.jar" />
+  </library>
+</eclipse-userlibraries>
+
